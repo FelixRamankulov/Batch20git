@@ -6,6 +6,9 @@ public class Class1 {
         //First note
         System.out.println("First note");
 
+        System.out.println("second note ");
+
+
 
 
     }
