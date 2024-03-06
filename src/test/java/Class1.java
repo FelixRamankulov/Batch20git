@@ -7,6 +7,7 @@ public class Class1 {
         System.out.println("First note");
 
         System.out.println("second note ");
+        System.out.println("On branch br1");
 
 
 
